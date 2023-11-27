@@ -16,6 +16,7 @@ Follow these steps to run the benchmark for ChatGPT:
 
 
 Run the following scripts to execute the benchmark for AEL:
++ Navigate to logparser-main/logparser-main/logparser/AEL and run
 
 ```
 python benchmark.py
@@ -24,6 +25,7 @@ python benchmark.py
 # Drain
 
 Run the following scripts to execute the benchmark for Drain:
++ Navigate to logparser-main/logparser-main/logparser/Drain and run
 
 ```
 python benchmark.py

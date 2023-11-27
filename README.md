@@ -21,10 +21,6 @@ Run the following scripts to execute the benchmark for AEL:
 python benchmark.py
 ```
 
-### Benchmark
-
-Running the benchmark script on Loghub_2k datasets, you could obtain the following results.
-
 # Drain
 
 Run the following scripts to execute the benchmark for Drain:
@@ -33,6 +29,3 @@ Run the following scripts to execute the benchmark for Drain:
 python benchmark.py
 ```
 
-### Benchmark
-
-Running the benchmark script on Loghub_2k datasets, you could obtain the following results.

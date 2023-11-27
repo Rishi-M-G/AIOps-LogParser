@@ -6,6 +6,7 @@ In this study, we replicated a preliminary evaluation of ChatGPT for log parsing
 
 ## ChatGPT
 Follow these steps to run the benchmark for ChatGPT:
++ Navigate to log-analytics-chatgpt-master
 + Set the Open AI API Key at /chat/__init__.py (OPEN_AI_KEY)
 + Run the script python main.py to generate log templates with ChatGPT
 + Set the output directory at /outputs/post_process.py and run the script cd outputs && python post_process.py to apply common post-process rules for log parsing.
@@ -22,7 +23,7 @@ Run the following scripts to execute the benchmark for AEL:
 python benchmark.py
 ```
 
-# Drain
+## Drain
 
 Run the following scripts to execute the benchmark for Drain:
 + Navigate to logparser-main/logparser-main/logparser/Drain and run
@@ -30,4 +31,7 @@ Run the following scripts to execute the benchmark for Drain:
 ```
 python benchmark.py
 ```
+
+## Results
+
 

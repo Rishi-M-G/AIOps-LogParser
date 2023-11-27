@@ -32,6 +32,6 @@ Run the following scripts to execute the benchmark for Drain:
 python benchmark.py
 ```
 
-## Results
-
+## Datasets
+We use 6 representative log datasets from a wide range of systems for the evaluation, including distributed systems (OpenStack), supercomputers (BGL), operating systems (Linux), mobile systems (Android), server applications (Apache), and standalone software (Proxifier). Each dataset contains 2,000 manually labelled log messages The dataset originated from LogPAI. We use a corrected version that was available in the original study.
 
